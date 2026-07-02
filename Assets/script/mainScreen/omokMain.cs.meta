@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bc58697cb40a2e46870ab45d2fa896c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerScript: {fileID: 1935943794705063315, guid: e43a520d588a6594f9bfe4a3d4f62d24, type: 3}
+  - costScript: {fileID: 538531466771039219, guid: 9b944bbf329e7ca4e9050acfc45df6b8, type: 3}
+  - blackStone: {fileID: 5442390886300881762, guid: 0921d525211dc6743ba1c552765321cc, type: 3}
+  - whiteStone: {fileID: 1268316853496185012, guid: bccc81c959f52a14ab5431823dcbf811, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
